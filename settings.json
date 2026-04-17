@@ -6,10 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Survival2916.aternos.me
-",
+    "ip": "Survival2916.aternos.me",
     "port": 44454,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
